@@ -1,0 +1,161 @@
+origin,destination,departure_date,flight_class,price,flight_id
+London,Paris,2023-12-10,Economy,150,FL001
+London,New York,2023-12-15,Business,250,FL002
+London,Paris,2023-12-10,Economy,150,FL003
+London,New York,2023-12-15,Business,250,FL004
+London,Paris,2023-12-10,Economy,150,FL005
+London,New York,2023-12-15,Business,250,FL006
+London,Paris,2023-12-10,Economy,150,FL007
+London,New York,2023-12-15,Business,250,FL008
+London,Paris,2023-12-10,Economy,150,FL009
+London,New York,2023-12-15,Business,250,FL010
+London,Paris,2023-12-10,Economy,150,FL011
+London,New York,2023-12-15,Business,250,FL012
+London,Paris,2023-12-10,Economy,150,FL013
+London,New York,2023-12-15,Business,250,FL014
+London,Paris,2023-12-10,Economy,150,FL015
+London,New York,2023-12-15,Business,250,FL016
+London,Paris,2023-12-10,Economy,150,FL017
+London,New York,2023-12-15,Business,250,FL018
+London,Paris,2023-12-10,Economy,150,FL019
+London,New York,2023-12-15,Business,250,FL020
+London,Paris,2023-12-10,Economy,150,FL021
+London,New York,2023-12-15,Business,250,FL022
+London,Paris,2023-12-10,Economy,150,FL023
+London,New York,2023-12-15,Business,250,FL024
+London,Paris,2023-12-10,Economy,150,FL025
+London,New York,2023-12-15,Business,250,FL026
+London,Paris,2023-12-10,Economy,150,FL027
+London,New York,2023-12-15,Business,250,FL028
+London,Paris,2023-12-10,Economy,150,FL029
+London,New York,2023-12-15,Business,250,FL030
+London,Paris,2023-12-10,Economy,150,FL031
+London,New York,2023-12-15,Business,250,FL032
+London,Paris,2023-12-10,Economy,150,FL033
+London,New York,2023-12-15,Business,250,FL034
+London,Paris,2023-12-10,Economy,150,FL035
+London,New York,2023-12-15,Business,250,FL036
+London,Paris,2023-12-10,Economy,150,FL037
+London,New York,2023-12-15,Business,250,FL038
+London,Paris,2023-12-10,Economy,150,FL039
+London,New York,2023-12-15,Business,250,FL040
+London,Paris,2023-12-10,Economy,150,FL041
+London,New York,2023-12-15,Business,250,FL042
+London,Paris,2023-12-10,Economy,150,FL043
+London,New York,2023-12-15,Business,250,FL044
+London,Paris,2023-12-10,Economy,150,FL045
+London,New York,2023-12-15,Business,250,FL046
+London,Paris,2023-12-10,Economy,150,FL047
+London,New York,2023-12-15,Business,250,FL048
+London,Paris,2023-12-10,Economy,150,FL049
+London,New York,2023-12-15,Business,250,FL050
+Paris,London,2024-01-10,Economy,200,FL051
+Paris,Berlin,2024-01-15,Business,300,FL052
+Paris,London,2024-01-10,Economy,200,FL053
+Paris,Berlin,2024-01-15,Business,300,FL054
+Paris,London,2024-01-10,Economy,200,FL055
+Paris,Berlin,2024-01-15,Business,300,FL056
+Paris,London,2024-01-10,Economy,200,FL057
+Paris,Berlin,2024-01-15,Business,300,FL058
+Paris,London,2024-01-10,Economy,200,FL059
+Paris,Berlin,2024-01-15,Business,300,FL060
+Paris,London,2024-01-10,Economy,200,FL061
+Paris,Berlin,2024-01-15,Business,300,FL062
+Paris,London,2024-01-10,Economy,200,FL063
+Paris,Berlin,2024-01-15,Business,300,FL064
+Paris,London,2024-01-10,Economy,200,FL065
+Paris,Berlin,2024-01-15,Business,300,FL066
+Paris,London,2024-01-10,Economy,200,FL067
+Paris,Berlin,2024-01-15,Business,300,FL068
+Paris,London,2024-01-10,Economy,200,FL069
+Paris,Berlin,2024-01-15,Business,300,FL070
+Paris,London,2024-01-10,Economy,200,FL071
+Paris,Berlin,2024-01-15,Business,300,FL072
+Paris,London,2024-01-10,Economy,200,FL073
+Paris,Berlin,2024-01-15,Business,300,FL074
+Paris,London,2024-01-10,Economy,200,FL075
+Paris,Berlin,2024-01-15,Business,300,FL076
+Paris,London,2024-01-10,Economy,200,FL077
+Paris,Berlin,2024-01-15,Business,300,FL078
+Paris,London,2024-01-10,Economy,200,FL079
+Paris,Berlin,2024-01-15,Business,300,FL080
+Paris,London,2024-01-10,Economy,200,FL081
+Paris,Berlin,2024-01-15,Business,300,FL082
+Paris,London,2024-01-10,Economy,200,FL083
+Paris,Berlin,2024-01-15,Business,300,FL084
+Paris,London,2024-01-10,Economy,200,FL085
+Paris,Berlin,2024-01-15,Business,300,FL086
+Paris,London,2024-01-10,Economy,200,FL087
+Paris,Berlin,2024-01-15,Business,300,FL088
+Paris,London,2024-01-10,Economy,200,FL089
+Paris,Berlin,2024-01-15,Business,300,FL090
+Paris,London,2024-01-10,Economy,200,FL091
+Paris,Berlin,2024-01-15,Business,300,FL092
+Paris,London,2024-01-10,Economy,200,FL093
+Paris,Berlin,2024-01-15,Business,300,FL094
+Paris,London,2024-01-10,Economy,200,FL095
+Paris,Berlin,2024-01-15,Business,300,FL096
+Paris,London,2024-01-10,Economy,200,FL097
+Paris,Berlin,2024-01-15,Business,300,FL098
+Paris,London,2024-01-10,Economy,200,FL099
+Paris,Berlin,2024-01-15,Business,300,FL100
+Berlin,Singapore,2024-12-23,First Class,415,FL2550
+Toronto,Beijing,2025-08-07,Economy,310,FL6607
+Madrid,Singapore,2025-08-06,First Class,712,FL1381
+Sao Paulo,Singapore,2025-08-07,Economy,354,FL3320
+Toronto,Beijing,2025-06-30,Business,940,FL1728
+Tokyo,Seoul,2025-08-20,Economy,489,FL1580
+Dubai,Los Angeles,2025-11-15,Economy,137,FL2200
+Tokyo,Bangkok,2025-07-28,First Class,728,FL4431
+Toronto,Lagos,2025-04-15,Business,542,FL2678
+Sao Paulo,Beijing,2025-06-13,First Class,154,FL4130
+Berlin,Singapore,2025-08-16,Economy,644,FL7715
+Tokyo,Los Angeles,2025-04-22,Economy,523,FL9529
+Berlin,Johannesburg,2025-01-26,Business,743,FL2565
+Cape Town,Istanbul,2025-09-27,Economy,564,FL4784
+Dubai,Johannesburg,2025-04-18,Economy,514,FL8608
+Tokyo,Johannesburg,2025-04-19,Economy,910,FL3596
+Cape Town,Singapore,2025-08-29,Economy,662,FL7429
+Toronto,Istanbul,2025-08-29,First Class,743,FL6485
+Sydney,Singapore,2024-12-28,Economy,182,FL7677
+Mumbai,Mexico City,2025-06-07,First Class,201,FL1726
+Sydney,Istanbul,2025-08-12,Economy,567,FL6922
+Rome,Helsinki,2025-05-12,First Class,337,FL6517
+Cape Town,Bangkok,2025-08-22,Business,692,FL3901
+Toronto,Johannesburg,2025-01-06,First Class,330,FL7023
+Dubai,Mexico City,2025-01-23,Economy,662,FL7219
+Dubai,Beijing,2025-12-04,Business,188,FL1688
+Rome,Helsinki,2025-08-24,Economy,779,FL6595
+Mumbai,Lagos,2025-06-29,Business,372,FL2064
+Sydney,Los Angeles,2025-06-19,First Class,128,FL9071
+Dubai,Seoul,2025-05-23,Economy,546,FL8753
+Sao Paulo,Johannesburg,2025-06-24,Business,915,FL2606
+Cape Town,Seoul,2025-09-28,Economy,110,FL5973
+Tokyo,Bangkok,2025-09-13,First Class,603,FL3259
+Berlin,Beijing,2025-05-19,Business,133,FL7729
+Rome,Singapore,2025-01-27,Business,138,FL6186
+Rome,Istanbul,2025-02-18,First Class,361,FL2266
+Rome,Seoul,2025-08-20,First Class,567,FL6383
+Berlin,Johannesburg,2025-11-06,First Class,725,FL1562
+Tokyo,Istanbul,2025-10-24,Business,488,FL9581
+Sao Paulo,Istanbul,2025-12-06,First Class,829,FL4529
+Dubai,Beijing,2025-04-25,Business,285,FL2484
+Rome,Johannesburg,2025-01-16,First Class,1000,FL5638
+Tokyo,Singapore,2025-11-20,Business,509,FL7868
+Mumbai,Helsinki,2025-03-16,Business,648,FL8186
+Toronto,Johannesburg,2025-01-12,First Class,552,FL2999
+Sao Paulo,Bangkok,2025-08-25,First Class,524,FL7915
+Dubai,Singapore,2024-12-25,Economy,154,FL7826
+Sydney,Singapore,2025-10-09,First Class,668,FL5941
+Mumbai,Johannesburg,2025-03-11,Business,324,FL2246
+Dubai,Los Angeles,2025-09-24,First Class,770,FL6272
+Toronto,Istanbul,2025-03-13,Economy,895,FL5719
+Madrid,Los Angeles,2025-11-12,Business,680,FL8873
+Madrid,Bangkok,2025-08-20,Economy,989,FL2293
+Mumbai,Beijing,2025-01-23,Business,504,FL2673
+Sydney,Helsinki,2025-07-24,Economy,645,FL6689
+Cape Town,Johannesburg,2025-02-14,First Class,307,FL1810
+Dubai,Johannesburg,2025-11-16,First Class,847,FL8761
+Toronto,Singapore,2025-09-21,Economy,231,FL7306
+Berlin,Istanbul,2025-04-28,Business,110,FL5995
+Berlin,Mexico City,2025-09-08,First Class,124,FL7064
